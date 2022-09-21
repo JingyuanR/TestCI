@@ -1,0 +1,25 @@
+{
+  "name": "testci",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "release": "npm run semantic-release",
+    "semantic-release": "dotenv -c -- semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JingyuanR/testCI.git"
+  },
+  "author": "yuanxi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JingyuanR/testCI/issues"
+  },
+  "homepage": "https://github.com/JingyuanR/testCI#readme",
+  "devDependencies": {
+    "@semantic-release/git": "^10.0.1",
+    "dotenv-cli": "^6.0.0",
+    "semantic-release": "^19.0.5"
+  }
+}
