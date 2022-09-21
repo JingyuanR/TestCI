@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/JingyuanR/testCI/compare/v1.5.0...v1.6.0) (2022-09-21)
+
+
+### Features
+
+* **test:** :whale: this is new version ([abaa2c7](https://github.com/JingyuanR/testCI/commit/abaa2c7889ab0dbedc9b54e0113c43e03df828e9))
+
 # [1.5.0](https://github.com/JingyuanR/testCI/compare/v1.4.1...v1.5.0) (2022-09-21)
 
 
