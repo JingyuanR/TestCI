@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/JingyuanR/testCI/compare/v1.7.0...v1.8.0) (2022-09-21)
+
+
+### Features
+
+* **test:** :whale: change docs/CHANGELOG.md ([ab08476](https://github.com/JingyuanR/testCI/commit/ab08476aa189d938f09ffe410910accc457e2f5b))
+
 # [1.7.0](https://github.com/JingyuanR/testCI/compare/v1.6.0...v1.7.0) (2022-09-21)
 
 
