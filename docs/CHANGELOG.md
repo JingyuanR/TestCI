@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/JingyuanR/testCI/compare/v1.6.0...v1.7.0) (2022-09-21)
+
+
+### Features
+
+* **test:** :whale: this is new version ([db10145](https://github.com/JingyuanR/testCI/commit/db101454aa03616acdf95c78645f8177fc333d37))
+
 # [1.6.0](https://github.com/JingyuanR/testCI/compare/v1.5.0...v1.6.0) (2022-09-21)
 
 
