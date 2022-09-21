@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/JingyuanR/testCI/compare/v1.4.0...v1.4.1) (2022-09-21)
+
+
+### Bug Fixes
+
+* **test:** :zap: fix bug ([bfc1451](https://github.com/JingyuanR/testCI/commit/bfc1451d4c3a9af9c186ec50def54799f56ac56b))
+
 # [1.4.0](https://github.com/JingyuanR/testCI/compare/v1.3.0...v1.4.0) (2022-09-21)
 
 
