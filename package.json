@@ -19,6 +19,7 @@
   "homepage": "https://github.com/JingyuanR/testCI#readme",
   "devDependencies": {
     "@semantic-release/git": "^10.0.1",
+    "@semantic-release/changelog": "^6.0.1",
     "dotenv-cli": "^6.0.0",
     "semantic-release": "^19.0.5"
   }
