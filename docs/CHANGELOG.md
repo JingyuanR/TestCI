@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/JingyuanR/testCI/compare/v1.3.0...v1.4.0) (2022-09-21)
+
+
+### Features
+
+* **test:** :zap: 测试多行描述 ([67a4064](https://github.com/JingyuanR/testCI/commit/67a40641b139f33cf67146a1c8fb65fdb174f996))
+
 # [1.3.0](https://github.com/JingyuanR/testCI/compare/v1.2.0...v1.3.0) (2022-09-21)
 
 
