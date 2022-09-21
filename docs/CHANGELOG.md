@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/JingyuanR/testCI/compare/v1.2.0...v1.3.0) (2022-09-21)
+
+
+### Features
+
+* :apple: remove dotenv scripts ([0f50b20](https://github.com/JingyuanR/testCI/commit/0f50b20b2003ae51fff937cff511e527fd2ba81f))
+
 # [1.2.0](https://github.com/JingyuanR/testCI/compare/v1.1.0...v1.2.0) (2022-09-21)
 
 
